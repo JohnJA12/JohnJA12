@@ -4,6 +4,11 @@ Olá eu sou João Augusto
 - 😄 Pronouns: ele/dele
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJA12&show_icons=true&theme=dark)
+ graywhite: {
+    title_color: "24292e",
+    icon_color: "24292e",
+    text_color: "24292e",
+    bg_color: "ffffff",
+  },
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJA12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
